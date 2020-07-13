@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){let theThemeTest='this is a test';let xtest='Hello World 2';window.console.log(xtest);});
